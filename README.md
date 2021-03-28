@@ -4,7 +4,7 @@ Repositório criado para projeto da disciplina Fundamentos de Programação Apli
 <br><hr>
 ## Sobre
 <br><hr>
-## Levantando a aplicação
+## Executando a aplicação
 - Rode o comando ```open -a Simulator``` para iniciar o simulador.
 - Rode ```flutter run``` para levantar a aplicação no simulador ou ```flutter run --debug``` para rodar no modo debug (com suporte para hot reload).
 
