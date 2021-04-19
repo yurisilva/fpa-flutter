@@ -7,6 +7,8 @@ Repositório criado para projeto da disciplina Fundamentos de Programação Apli
 ## Widget tree
 <br><hr>
 ## Fluxo de telas
+![Fluxo de telas ](web/wireframe/FluxoTelas.png)
+
 <br><hr>
 ## Wireframe
 ![home-confirmar exclusão-adicionar foto](web/wireframe/wire1.jpg)
