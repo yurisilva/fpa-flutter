@@ -4,6 +4,12 @@ Repositório criado para projeto da disciplina Fundamentos de Programação Apli
 <br><hr>
 ## Sobre
 <br><hr>
+
+## Wireframe
+![home-confirmar exclusão-adicionar foto](./web/wireframe/UFRPE Noise - home-confirmar exclusão-adicionar foto.jpg)
+![home-mudar foto-editar perfil-visualizar perfil](./web/wireframe/UFRPE Noise - home-mudar foto-editar perfil-visualizar perfil.jpg)
+![home screen-filtro expandido-confirmar postagem](./web/wireframe/URFPE Noise - home screen-filtro expandido-confirmar postagem.jpg)
+<br><hr>
 ## Executando a aplicação
 - Rode o comando ```open -a Simulator``` para iniciar o simulador.
 - Rode ```flutter run``` para levantar a aplicação no simulador ou ```flutter run --debug``` para rodar no modo debug (com suporte para hot reload).
