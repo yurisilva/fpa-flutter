@@ -1,8 +1,10 @@
-# fpa-flutter
+![logo ufrpe noise cartoon de um megafone vermelho e cinza sobre um fundo quadriculado amarelo, o nome ufrpe noise e a logo da UFRPE no canto inferior direito](/web/logo.png)
+# UFRPE Noise
 
-Repositório criado para projeto da disciplina Fundamentos de Programação Aplicada.
-<br><hr>
 ## Sobre
+O UFRPE Noise foi pensado para ser uma rede de compartilhamento de informações entre alunos e servidores da UFRPE. Com postagens curtas e a possibilidade de enviar imagens, esperamos facilitar a comunicação de eventos na universidade como palestras, seminários, feira de profissões, calouradas, olimpíadas, ações, e tudo que acontece na nossa Rural.
+
+Cada usuário poderá ter um perfil, realizar postagens e visualizar as postagens feitas por outros alunos e servidores da UFRPE, bem como filtrar o tipo de postagem que deseja visualizar.
 <br><hr>
 ## Widget tree
 <br><hr>
@@ -28,9 +30,9 @@ Mudar ou remover foto de postagem, editar perfil e visualizar perfil.
 - Rode o comando ```open -a Simulator``` para iniciar o simulador.
 - Rode ```flutter run``` para levantar a aplicação no simulador ou ```flutter run --debug``` para rodar no modo debug (com suporte para hot reload).
 
-<br><hr>
-
 <br><br><hr>
-UFRPE - Programa de Pós-Graduação em Informática Aplicada. 2021.1
+UFRPE - Programa de Pós-Graduação em Informática Aplicada. 
+2021.1
+Fundamentos de Programação Aplicada
 <br>
 Por Yuri Nascimento
