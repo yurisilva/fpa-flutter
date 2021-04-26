@@ -7,6 +7,19 @@ O UFRPE Noise foi pensado para ser uma rede de compartilhamento de informações
 Cada usuário poderá ter um perfil, realizar postagens e visualizar as postagens feitas por outros alunos e servidores da UFRPE, bem como filtrar o tipo de postagem que deseja visualizar.
 <br><hr>
 ## Widget tree
+![widget tree app bar with filter](web/widget_tree/widgettreefilter.jpg)
+Widget tree app bar (filter expanded)
+<br><br>
+![widget tree home](web/widget_tree/widgettreehome.jpg)
+Widget tree home screen
+<br><br>
+![widget tree popups](web/widget_tree/widgettreepopups.jpg)
+Widget tree pop-ups 
+<br><br>
+![widget tree profile](web/widget_tree/widgettreeprofilescreen.jpg)
+Widget tree profile screen
+<br><br>
+
 <br><hr>
 ## Fluxo de telas
 ![Fluxo de telas ](web/wireframe/FluxoTelas.png)
